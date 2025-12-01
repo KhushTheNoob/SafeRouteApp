@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+
+# Expo / React Native build directories
+.expo/
+.expo-shared/
+android/
+ios/
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variable files
+.env
+.env.local
+.env.production
+.env.development
+
+# Metro bundler cache
+.expo/
+.metro/
+.cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated assets
+*.lock
